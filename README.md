@@ -1,3 +1,3 @@
-# egg-tools
+# eeg-tools
 
 Tools for EEG files
